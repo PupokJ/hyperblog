@@ -6,3 +6,4 @@ Blog para el curso de Git y Github de Platzi
 - Git
 - CSS
 - Bootsttrap
+- Creado por Pupok
