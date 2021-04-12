@@ -4,12 +4,6 @@ Manuel Ram tiene 55 años
 
 Master
 
-<<<<<<< HEAD
-Master 2 
-=======
 Experimento 1
->>>>>>> ec7ca2e (Exp1)
-
-Experimento 2
 
 Hoy hablaremos de su historia
