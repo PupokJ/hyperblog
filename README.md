@@ -7,4 +7,5 @@ Blog para el curso de Git y Github de Platzi
 - CSS
 - Bootsttrap
 - Creado por Pupok
--Incluye ejemplos en windows, linux y mac
+- Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades 
